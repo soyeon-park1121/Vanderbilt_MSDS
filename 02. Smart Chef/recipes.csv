@@ -1,0 +1,59 @@
+Recipe,Style,Ingredient,Quantity,Servings,Cook Time,Calories per Serving
+Grilled Cheese Sandwich,American,white bread,4 slices,2,20 mins,400
+Grilled Cheese Sandwich,American,butter,3 tablespoons,2,20 mins,400
+Grilled Cheese Sandwich,American,Cheddar cheese,2 slices,2,20 mins,400
+Bulgogi,Korean,yellow onion, 1/4,6,1 hr 15 mins,226
+Bulgogi,Korean,green onion,2,6,1 hr 15 mins,226
+Bulgogi,Korean,soy sauce,1/3 cup,6,1 hr 15 mins,226
+Bulgogi,Korean,white sugar,3 tablespoons,6,1 hr 15 mins,226
+Bulgogi,Korean,toasted seasame seeds,2 tablespoons,6,1 hr 15 mins,226
+Bulgogi,Korean,garlic,3 cloves,6,1 hr 15 mins,226
+Bulgogi,Korean,seasame oil,1 tablespoon,6,1 hr 15 mins,226
+Bulgogi,Korean,beef sirloin steak,1.5 pounds,6,1 hr 15 mins,226
+Bulgogi,Korean,honey,1 teaspoon,6,1 hr 15 mins,226
+Gambas al Ajillo,Spanish,garlic,4 cloves,4,20 mins,227
+Gambas al Ajillo,Spanish,shrimp,1 pound,4,20 mins,227
+Gambas al Ajillo,Spanish,hot smoked paprika,1 teaspoon,4,20 mins,227
+Gambas al Ajillo,Spanish,extra-virgin olive oil,1/4 cup,4,20 mins,227
+Gambas al Ajillo,Spanish,parsley,1 tablespoon,4,20 mins,227
+Gambas al Ajillo,Spanish,dry sherry,2 tablespoons,4,20 mins,227
+Miso Soup,Japanese,dashi granules,2 teaspoons,4,20 mins,63
+Miso Soup,Japanese,miso paste,3 tablespoons,4,20 mins,63
+Miso Soup,Japanese,silken tofu,8 ounce,4,20 mins,63
+Gourmet Mushroom Risotto,Italian,chicken broth,6 cups,6,50 mins,431
+Gourmet Mushroom Risotto,Italian,olive oil,3 tablespoons,6,50 mins,431
+Gourmet Mushroom Risotto,Italian,mushrooms,1 pound,6,50 mins,431
+Gourmet Mushroom Risotto,Italian,shallot,2,6,50 mins,431
+Gourmet Mushroom Risotto,Italian,Arborio rice,1.5 cups,6,50 mins,431
+Gourmet Mushroom Risotto,Italian,dry white wine,0.5 cup,6,50 mins,431
+Gourmet Mushroom Risotto,Italian,chives,3 tablespoons,6,50 mins,431
+Gourmet Mushroom Risotto,Italian,butter,4 tablespoons,6,50 mins,431
+Shrimp Fried Rice,Chinese,white rice,1.5 cups,4,30 mins,483
+Shrimp Fried Rice,Chinese,fresh bean sprouts,4 tablespoons,4,30 mins,483
+Shrimp Fried Rice,Chinese,onion,0.5 cup,4,30 mins,483
+Shrimp Fried Rice,Chinese,shrimp,1.5 cups,4,30 mins,483
+Shrimp Fried Rice,Chinese,green onion,1/4 cup,4,30 mins,483
+Shrimp Fried Rice,Chinese,egg,2,4,30 mins,483
+Shrimp Fried Rice,Chinese,soy sauce,4 tablespoons,4,30 mins,483
+Shrimp Fried Rice,Chinese,seasame oil,1/4 teaspoon,4,30 mins,483
+Paratha,Indian,white sugar,1 pinch,8,2 hrs 30 mins,357
+Paratha,Indian,all-purpose flour,5 cups,8,2 hrs 30 mins,357
+Paratha,Indian,clarified butter,3.5 tablespoons,8,2 hrs 30 mins,357
+Paratha,Indian,egg,1,8,2 hrs 30 mins,357
+Crème Brûlée,French,heavy cream,2 cups,4,50 mins,680
+Crème Brûlée,French,white sugar,1/4 cup,4,50 mins,680
+Crème Brûlée,French,vanilla extract,2 teaspoons,4,50 mins,680
+Crème Brûlée,French,egg yolk,5,4,50 mins,680
+Crème Brûlée,French,chocolate chips,0.5 cup,4,50 mins,680
+Guacamole,Mexican,avacado,3,4,10 mins,262
+Guacamole,Mexican,lime,1,4,10 mins,262
+Guacamole,Mexican,onion,0.5 cup,4,10 mins,262
+Guacamole,Mexican,cilantro,3 tablespoons,4,10 mins,262
+Guacamole,Mexican,tomato,2,4,10 mins,262
+Guacamole,Mexican,garlic,1 teaspoon,4,10 mins,262
+Khao Neeo Mamuang,Thai,white rice,1.5 cups,4,1 hr 30 mins,817
+Khao Neeo Mamuang,Thai,coconut milk,1.5 cups,4,1 hr 30 mins,817
+Khao Neeo Mamuang,Thai,white sugar,1 cup,4,1 hr 30 mins,817
+Khao Neeo Mamuang,Thai,mango,3,4,1 hr 30 mins,817
+Khao Neeo Mamuang,Thai,tapioca starch,1 tablespoon,4,1 hr 30 mins,817
+Khao Neeo Mamuang,Thai,toasted seasame seeds,1 tablespoon,4,1 hr 30 mins,817
