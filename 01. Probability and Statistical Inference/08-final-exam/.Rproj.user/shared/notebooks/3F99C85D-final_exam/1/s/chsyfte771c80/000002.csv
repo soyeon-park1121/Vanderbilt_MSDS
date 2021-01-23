@@ -1,0 +1,7 @@
+"0","# CDF function for the Kth order statistic"
+"0","Fk <- function(x,k,n){"
+"0","  pbinom(k-1, n, plnorm(x), lower.tail = FALSE)"
+"0","}"
+"0",""
+"0","# Create a plot of the ECDF of C"
+"0","plot(ecdf(meds), main = ""ECDF and CDF of the Median"", ylab = ""Probability"", xlab = ""Median"")"

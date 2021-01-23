@@ -1,0 +1,8 @@
+"0","# P(D-|T-) = P(D-&T-) / P(T-)"
+"0","prob_t_minus = 0.9492 # P(T-)"
+"0","prob_joint_d_minus_t_minus = 0.94905 # P(D-&T-)"
+"0","prob_joint_d_minus_t_minus / prob_t_minus"
+"1","[1]"
+"1"," 0.999842"
+"1","
+"

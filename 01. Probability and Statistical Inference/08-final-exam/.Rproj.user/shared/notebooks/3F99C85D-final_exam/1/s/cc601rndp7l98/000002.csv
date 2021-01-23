@@ -1,0 +1,7 @@
+"0","# Cumulative Distribution for thte yearly hospital charges (in thousands of dollars)"
+"0","p_hospital_charges <- function(x) {"
+"0","  .5 * punif(x,0,0) + .5*pgamma(x, shape = 2, scale = 2)"
+"0","}"
+"0",""
+"0","# Create the CDF for the yearly hospital charges"
+"0","curve(p_hospital_charges(x), -10, 9, lwd = 3, ylim = c(0,1), xlim = c(0,10), ylab = ""probability"", main = ""CDF for the yearly hospital charges"")"

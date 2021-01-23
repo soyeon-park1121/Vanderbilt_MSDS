@@ -1,0 +1,1 @@
+"0","curve(dnorm(x, mean = coef(fit_norm)[1], sd = coef(fit_norm)[2]), lwd = 3, xlim = c(150, 200), ylab = ""Density"", xlab = ""Male Adults' Standing Height"")"

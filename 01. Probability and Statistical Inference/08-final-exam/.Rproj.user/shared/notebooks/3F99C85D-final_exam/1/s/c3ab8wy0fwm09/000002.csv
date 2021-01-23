@@ -1,0 +1,7 @@
+"0","out <- NA"
+"0","N <- 10000 # The number of simulation"
+"0","for (i in 1:N) {"
+"0","  out[i] <- hospital_charges(30) %>% mean"
+"0","}"
+"0",""
+"0","hist(out, breaks = 100, main = ""Simulated histogram of the class average yearly hospital charge"", xlab = ""The class(30) average yearly hospital charge"")"
