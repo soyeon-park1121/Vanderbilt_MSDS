@@ -30,6 +30,6 @@ Everyone has different taste. If you want to edit a recipe in the original cookb
 
 Currently, a lot of people care about calories intake. This function informs the total calories of  the recipes selected by the users.
 
-**Function 8** - *View the list of recipes with the given total calories and the number of food the users want to cook.
+**Function 8** - *View the list of recipes with the given total calories and the number of food the users want to cook.*
 
 This function informs different combinations of recipes that meet the users' requirement on the calories intake. It asks the total calories intake and the number of recipes. Then, it will return all the list of possible combinations of recipes with their summative calories equal to or less than the target calories intake.
